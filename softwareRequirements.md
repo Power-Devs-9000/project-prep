@@ -1,3 +1,0 @@
-## Vision
-
-## Scope In/Out

@@ -2,6 +2,7 @@
 
 ## Cooperation Plan
   -Logan: Attention to detail, persistence, high motivation. Logan will be able to spot any minor adjustments needed in regards to code or styling with his attention to detail.  He is comfortable with working through his problems with breaking things and rebuilding.  He does not let the obstructions of learning hamper his attitude. Logan wants to continue to improve his technical skills and being open to receiving help more often throughout the project.
+  
   -Reece: Debugging, problem solution planning, big picture. Reece has a keen eye for finding errors in code.  He is able to think out how to solve the problems needed to complete the project and understand how the small things fit into the grand project. He wants to increase his technical skills as he progresses through the project.
   -Ryan E: loop king, CSS(kinda). Ryan has a strong handle on how to handle grabbing information from arrays or objects using loops.  Although CSS can be annoying for him, he continues to pursue it with great passion. Ryan wants to work on his technical craft competency with a focus in HTML.
   -Darshon: CSS, time management, perseverance. Darshon has experience graphic design that will translate over well with his CSS skills.  He is able to properly plan out his tasks and stay on track with his time management.  His perseverance will keep the team on track as we progress through the project. Darshon wants to continue to improve his communication between team members and improve his technical skills surrounding functions in JS.

@@ -25,4 +25,4 @@
   - Keep in line with psychological safety lessons we learned to ensure everyone is heard.
   - Conversation turn taking, displaying empathy, accepting to all ideas, and actively listening.
 ## Work Plan
-  -We intend on using the GitHub projects board to assign tasks and track when they are being completed.
+  - We intend on using the GitHub projects board to assign tasks and track when they are being completed.
